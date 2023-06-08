@@ -16,8 +16,8 @@ To run this project locally, follow these steps:
    npm install
    ```
 This will download all the necessary dependencies listed in the package.json file.
-##
-Usage
+
+## Usage
 
 Once the dependencies are installed, you can start the development server by running the following command:
 
@@ -26,11 +26,10 @@ npm start
 ```
 This will start the React development server and open the application in your default web browser. Any changes you make to the source code will automatically reload the application.
 
-##
-Contributing
+## Contributing
 
 If you would like to contribute to this project, feel free to submit pull requests or open issues in the GitHub repository.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
