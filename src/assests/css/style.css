@@ -1,0 +1,102 @@
+/* App.css */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  font-weight: bold;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header.css */
+.navbar {
+  background-color: #007bff;
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  margin-right: 10px;
+}
+
+.navbar a:hover {
+  color: #e6e6e6;
+}
+
+/* Home.css */
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.brand-statement {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+/* Projects.css */
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.project {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.project img {
+  width: 100%;
+  height: auto;
+}
+
+/* Project.css */
+.project-title {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.project-links a {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Contact.css */
+.contact-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.contact-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #0056b3;
+}
