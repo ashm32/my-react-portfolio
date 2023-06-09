@@ -1,5 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
+import './assests/css/style.css';
 
 function Project({ projectsData }) {
   const { projectId } = useParams();
