@@ -1,7 +1,7 @@
 import React from 'react';
-import Project from '/Users/ayshahmalik/Downloads/react portfolio/my-portfolio/src/components/Project.js';
-import projectsData from '/Users/ayshahmalik/Downloads/react portfolio/my-portfolio/src/components/projectsData.js';
-
+import Project from './components/Project.js';
+import projectsData from './components/projectsData.js';
+import './assests/css/style.css';
 function Projects() {
   return (
     <div className="container">
