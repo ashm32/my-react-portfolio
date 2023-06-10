@@ -1,6 +1,6 @@
 import React from 'react';
-import Project from './components/Project.js';
-import projectsData from './components/projectsData.js';
+import Project from './Project.js';
+import projectsData from './projectsData.js';
 import './assests/css/style.css';
 function Projects() {
   return (
