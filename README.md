@@ -12,7 +12,7 @@ To run this project locally, follow these steps:
 3. Open a terminal or command prompt and navigate to the project directory.
 4. Run the following command to install the required Node modules:
 
-   ```shell
+```shell
    npm install
    ```
 This will download all the necessary dependencies listed in the package.json file.
@@ -33,3 +33,10 @@ If you would like to contribute to this project, feel free to submit pull reques
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Contact
+
+If you have any questions or need further assistance, please feel free to contact me.
+
+- Email: [ash.m32@icloud.com](mailto:your-ash.m32@icloud.com)
+- GitHub: [ashm32](https://github.com/ashm32)
